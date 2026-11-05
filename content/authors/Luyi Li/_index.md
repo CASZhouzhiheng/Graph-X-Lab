@@ -17,9 +17,9 @@ superuser: false
 role: Lecturer<br>Institute of Mathematics, Renmin University of China
 
 # Organizations/Affiliations
-organizations:
-  - name: Shandong University
-    url: ''
+# organizations:
+#   - name: Shandong University
+#     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

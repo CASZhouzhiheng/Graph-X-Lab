@@ -16,9 +16,9 @@ superuser: false
 # Role/position
 role: Institute of Applied Mathematics, Academy of Mathematics and Systems Science
 # Organizations/Affiliations
-organizations:
-  - name: Institute of Applied Mathematics, Academy of Mathematics and Systems Science
-    url: ''
+# organizations:
+#   - name: Institute of Applied Mathematics, Academy of Mathematics and Systems Science
+#     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
