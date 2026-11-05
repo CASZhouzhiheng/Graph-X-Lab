@@ -11,7 +11,7 @@ authors:
   - Xingqin Qi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: first
 
 # Role/position
 role: Professor (School of Mathematics and Statistics, Shandong University)
