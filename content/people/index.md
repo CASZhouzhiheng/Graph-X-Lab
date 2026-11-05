@@ -15,7 +15,7 @@ sections:
           - Collaborating Members
           - Postdoctoral Researchers
           - Ph.D. Students
-          - Master's Students
+          - Master’s Students
           - Alumni
           - Collaborating Students
       sort_by: Params.last_name
