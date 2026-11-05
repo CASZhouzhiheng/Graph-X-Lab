@@ -33,20 +33,20 @@ education:
         year: 1989
 
 professional_experience: |
-  -Apr. 2005–Present:	Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  -2012–Present:	Deputy Director, National Center for Mathematics and Interdisciplinary Sciences, Chinese Academy of Sciences
-  -2008–2012:	Assistant to the President, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  -2003–2007:	Assistant to the President and Director of the Research Administration Office, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  -Jan. 1999–Mar. 2005:	Associate Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  -Mar. 1997–Dec. 1998:	Assistant Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
-  -June 1995–Feb. 1997:	Postdoctoral Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
+  - Apr. 2005–Present:	Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - 2012–Present:	Deputy Director, National Center for Mathematics and Interdisciplinary Sciences, Chinese Academy of Sciences
+  - 2008–2012:	Assistant to the President, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - 2003–2007:	Assistant to the President and Director of the Research Administration Office, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - Jan. 1999–Mar. 2005:	Associate Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - Mar. 1997–Dec. 1998:	Assistant Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
+  - June 1995–Feb. 1997:	Postdoctoral Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
 
 research_projects: |
--
+  -
 academic_affiliations: |
--
+  -
 selected_publications: |
--
+  -
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
