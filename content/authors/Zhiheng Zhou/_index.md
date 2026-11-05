@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhouzhiheng@amss.ac.cn'
+    link: "zhouzhiheng@amss.ac.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=u5DCzDgAAAAJ&hl=en

@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'liluyi@amss.ac.cn'
+    link: "liluyi@amss.ac.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GU7FtMYAAAAJ
