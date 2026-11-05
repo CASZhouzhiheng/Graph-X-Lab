@@ -10,7 +10,7 @@ last_name: Guiying
 superuser: true
 
 # Role/position
-role: Professor
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
