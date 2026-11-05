@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dengyi Zhao
-
+weight: 2
 # Full name (for SEO)
 first_name: Zhao
 last_name: Dengyi
