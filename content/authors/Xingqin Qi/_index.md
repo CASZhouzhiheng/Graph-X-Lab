@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Xingqin Qi
-
+weight: 1
 # Full name (for SEO)
 first_name: Qi
 last_name: Xingqin
@@ -11,10 +11,10 @@ authors:
   - Xingqin Qi
 
 # Is this the primary user of the site?
-superuser: first
+superuser: false
 
 # Role/position
-role: Professor (School of Mathematics and Statistics, Shandong University)
+role: Professor<br>School of Mathematics and Statistics, Shandong University
 
 # Organizations/Affiliations
 organizations:

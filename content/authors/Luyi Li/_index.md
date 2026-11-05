@@ -11,10 +11,10 @@ authors:
   - Luyi Li
 
 # Is this the primary user of the site?
-superuser: second
+superuser: false
 
 # Role/position
-role: Lecturer (Institute of Mathematics, Renmin University of China)
+role: Lecturer<br>Institute of Mathematics, Renmin University of China
 
 # Organizations/Affiliations
 organizations:

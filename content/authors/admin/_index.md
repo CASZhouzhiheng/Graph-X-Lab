@@ -10,7 +10,7 @@ last_name: Guiying
 superuser: true
 
 # Role/position
-role: Researcher (AMSS)
+role: Researcher<br>Institute of Applied Mathematics, Academy of Mathematics and Systems Science
 
 # Organizations/Affiliations
 organizations:

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Mengyao Zhou
-
+weight: 1
 # Full name (for SEO)
 first_name: Zhou
 last_name: Mengyao
@@ -14,10 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Institute of Applied Mathematics (AMSS)
+role: Institute of Applied Mathematics, Academy of Mathematics and Systems Science
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Applied Mathematics (AMSS)
+  - name: Institute of Applied Mathematics, Academy of Mathematics and Systems Science
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
