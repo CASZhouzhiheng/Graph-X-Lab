@@ -18,7 +18,7 @@ sections:
           - Master’s Students
           - Alumni
           - Collaborating Students
-      sort_by: Params.last_name
+      sort_by: Params.weight
       sort_ascending: true
     design:
       show_interests: false
