@@ -9,6 +9,11 @@
 
   <section id="published-papers" aria-labelledby="published-heading">
     <h2 id="published-heading">Published Papers</h2>
+    <nav class="publication-years" aria-label="Jump to publication year">
+      {{ range $bibliography.published_years }}
+      <a class="publication-year-link" href="#published-{{ . }}">{{ . }}</a>
+      {{ end }}
+    </nav>
     {{ range $bibliography.published_years }}
     {{ $year := . }}
     <section class="publication-year" aria-labelledby="published-{{ $year }}">
@@ -30,6 +35,11 @@
   <section id="preprints" aria-labelledby="preprints-heading">
     <h2 id="preprints-heading">Preprints</h2>
     <p class="preprint-period">{{ $bibliography.preprint_start_year }}–{{ $bibliography.preprint_end_year }}</p>
+    <nav class="publication-years" aria-label="Jump to preprint year">
+      {{ range $bibliography.preprint_years }}
+      <a class="publication-year-link" href="#preprints-{{ . }}">{{ . }}</a>
+      {{ end }}
+    </nav>
     {{ range $bibliography.preprint_years }}
     {{ $year := . }}
     <section class="publication-year" aria-labelledby="preprints-{{ $year }}">
@@ -47,4 +57,26 @@
     {{ end }}
   </section>
 </div>
+<script>
+(function () {
+  document.documentElement.classList.add('publication-index-page');
+  var yearNavs = document.querySelectorAll('.lab-publications .publication-years');
+  function updateYearLinks() {
+    yearNavs.forEach(function (nav) {
+      var links = Array.from(nav.querySelectorAll('.publication-year-link'));
+      var active = links.find(function (link) { return link.hash === window.location.hash; }) || links[0];
+      links.forEach(function (link) {
+        link.classList.toggle('is-active', link === active);
+        if (link === active) {
+          link.setAttribute('aria-current', 'location');
+        } else {
+          link.removeAttribute('aria-current');
+        }
+      });
+    });
+  }
+  window.addEventListener('hashchange', updateYearLinks);
+  updateYearLinks();
+})();
+</script>
 {{- end -}}
