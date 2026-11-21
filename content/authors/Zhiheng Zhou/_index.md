@@ -35,16 +35,7 @@ research_projects: |
   - **July 2026–Sept. 2027:** Shandong Provincial Postdoctoral Innovation Project (Department of Science and Technology of Shandong Province; Principal Investigator).
   - **June 2026–Sept. 2027:** Weihai Key Postdoctoral Funding Program (Weihai Municipal Human Resources and Social Security Bureau; Principal Investigator).
 
-academic_affiliations: |
-  - Reviewer, *Engineering Applications of Artificial Intelligence*.
-  - Reviewer, *IEEE Journal of Biomedical and Health Informatics*.
-  - Reviewer, *Applied Soft Computing*.
-  - Reviewer, *Journal of King Saud University – Computer and Information Sciences*.
-  - Reviewer, *Computational and Structural Biotechnology Journal*.
-  - Reviewer, *The Visual Computer*.
-  - Reviewer, *Current Gene Therapy*.
-  - Reviewer, *Current Pharmaceutical Design*.
-  - Reviewer, *Current Medicinal Chemistry*.
+academic_affiliations: ""
 
 selected_publications: ""
 
