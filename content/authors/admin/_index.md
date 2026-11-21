@@ -10,7 +10,7 @@ last_name: Guiying
 superuser: true
 
 # Role/position
-role: Researcher<br>Institute of Applied Mathematics, Academy of Mathematics and Systems Science
+role: Professor<br>Institute of Applied Mathematics, Academy of Mathematics and Systems Science
 
 # Organizations/Affiliations
 # organizations:
@@ -33,12 +33,12 @@ education:
         year: 1989
 
 professional_experience: |
-  - Apr. 2005–Present:	Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - Apr. 2005–Present:	Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
   - 2012–Present:	Deputy Director, National Center for Mathematics and Interdisciplinary Sciences, Chinese Academy of Sciences
   - 2008–2012:	Assistant to the President, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
   - 2003–2007:	Assistant to the President and Director of the Research Administration Office, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  - Jan. 1999–Mar. 2005:	Associate Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-  - Mar. 1997–Dec. 1998:	Assistant Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
+  - Jan. 1999–Mar. 2005:	Associate Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - Mar. 1997–Dec. 1998:	Assistant Professor, Institute of Applied Mathematics, Chinese Academy of Sciences
   - June 1995–Feb. 1997:	Postdoctoral Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
 
 research_projects: |
