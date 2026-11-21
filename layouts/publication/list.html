@@ -1,25 +1,33 @@
 {{- define "main" -}}
 {{ partial "page_header.html" . }}
 {{ $bibliography := site.Data.guiying_yan_publications }}
+{{ $currentYear := now.Year }}
+{{ $published := where (where $bibliography.published "year" "ge" 2010) "year" "le" $currentYear }}
+{{ $publishedYears := slice }}
+{{ range $bibliography.published_years }}
+  {{ if and (ge . 2010) (le . $currentYear) }}
+    {{ $publishedYears = $publishedYears | append . }}
+  {{ end }}
+{{ end }}
 <div class="universal-wrapper lab-publications">
   <nav class="publication-sections" aria-label="Publication categories">
-    <a href="#published-papers">Published Papers ({{ len $bibliography.published }})</a>
+    <a href="#published-papers">Published Papers ({{ len $published }})</a>
     <a href="#preprints">Preprints ({{ len $bibliography.preprints }})</a>
   </nav>
 
   <section id="published-papers" aria-labelledby="published-heading">
     <h2 id="published-heading">Published Papers</h2>
     <nav class="publication-years" aria-label="Jump to publication year">
-      {{ range $bibliography.published_years }}
+      {{ range $publishedYears }}
       <a class="publication-year-link" href="#published-{{ . }}">{{ . }}</a>
       {{ end }}
     </nav>
-    {{ range $bibliography.published_years }}
+    {{ range $publishedYears }}
     {{ $year := . }}
     <section class="publication-year" aria-labelledby="published-{{ $year }}">
       <h3 id="published-{{ $year }}">{{ $year }}</h3>
       <ol class="publication-list">
-        {{ range where $bibliography.published "year" $year }}
+        {{ range where $published "year" $year }}
         <li>
           <span class="publication-authors">{{ delimit .authors ", " }}.</span>
           <a class="publication-title" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>.
