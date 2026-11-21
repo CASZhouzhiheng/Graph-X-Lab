@@ -1,4 +1,8 @@
 ---
+build:
+  render: link
+  list: always
+  publishResources: true
 # Display name
 title: Mengyao Zhou
 weight: 1
