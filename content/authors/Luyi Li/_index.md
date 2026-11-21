@@ -15,7 +15,7 @@ interests:
 
 education:
   courses:
-    - course: Joint Doctoral Research Program
+    - course: CSC Joint PhD Program
       institution: "LISN, Université Paris-Saclay (supervisor: Professor Hao Li)"
       year: "Sept. 2023–Aug. 2024"
     - course: PhD in Mathematics
