@@ -27,9 +27,9 @@ education:
       year: "Sept. 1997–June 2001"
 
 professional_experience: |
-  - **Jan. 2015–Present:** Professor, School of Mathematics and Statistics, Shandong University, Weihai, China.
-  - **Oct. 2009–Dec. 2014:** Associate Professor, School of Mathematics and Statistics, Shandong University, Weihai, China.
-  - **July 2006–Sept. 2009:** Lecturer, School of Mathematics and Statistics, Shandong University, Weihai, China.
+  - **Jan. 2015–Present:** Professor, School of Mathematics and Statistics, Shandong University (Weihai).
+  - **Oct. 2009–Dec. 2014:** Associate Professor, School of Mathematics and Statistics, Shandong University (Weihai).
+  - **July 2006–Sept. 2009:** Lecturer, School of Mathematics and Statistics, Shandong University (Weihai).
   - **May 2009–May 2011:** Postdoctoral Researcher, Department of Mathematics, West Virginia University, USA (mentors: Professors Cun-Quan Zhang and Eddie Fuller).
   - **Sept. 2012–Sept. 2013:** Visiting Scholar, Department of Mathematics, West Virginia University, USA.
 
@@ -63,4 +63,4 @@ user_groups:
   - Collaborating Members
 ---
 
-Xingqin Qi is a Professor and doctoral supervisor at the School of Mathematics and Statistics, Shandong University, Weihai, China. Her research focuses on graph theory and complex networks, combinatorial optimization, graph data mining, and optimization theory and algorithms. She has led projects supported by the National Natural Science Foundation of China, the National Key R&D Program of China, and the Shandong Provincial Natural Science Foundation.
+Xingqin Qi is a Professor and doctoral supervisor at the School of Mathematics and Statistics, Shandong University (Weihai). Her research focuses on graph theory and complex networks, combinatorial optimization, graph data mining, and optimization theory and algorithms. She has led projects supported by the National Natural Science Foundation of China, the National Key R&D Program of China, and the Shandong Provincial Natural Science Foundation.
