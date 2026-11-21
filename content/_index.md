@@ -13,9 +13,12 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        **Graph-X Lab** develops mathematical foundations and computational methods for understanding complex networks. Our research spans graph theory, combinatorial optimization, graph and hypergraph learning, and topological data analysis, with applications in bioinformatics, brain science, and drug discovery.
-  
+
+        “Behind each complex system there is an intricate network that encodes the interactions between the system’s components.”
+
+        — Albert-László Barabási, *[Network Science](https://networksciencebook.com/chapter/)*
+
+
   - block: collection
     content:
       title: Latest News
