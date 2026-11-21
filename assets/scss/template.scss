@@ -78,3 +78,71 @@
   line-height: 1;
   transform: translateY(3px);
 }
+
+// Year-grouped publication bibliography.
+.lab-publications {
+  padding-bottom: 2rem;
+
+  .publication-sections {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+  }
+
+  section {
+    scroll-margin-top: 100px;
+  }
+
+  h2 {
+    margin: 1.6rem 0 1rem;
+  }
+
+  .publication-year h3 {
+    margin: 1.5rem 0 0.65rem;
+    color: #66526f;
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+
+  .publication-list {
+    padding-left: 1.4em;
+    font-size: 0.85rem;
+    line-height: 1.8;
+    overflow-wrap: anywhere;
+  }
+
+  .publication-list li {
+    margin-bottom: 0.85rem;
+    padding-left: 0.15em;
+  }
+
+  .publication-title {
+    color: inherit;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: rgba(63, 70, 81, 0.3);
+    text-underline-offset: 0.15em;
+  }
+
+  .publication-title:hover,
+  .publication-title:focus-visible {
+    color: #1565c0;
+  }
+
+  .publication-venue {
+    font-style: italic;
+  }
+
+  .publication-version {
+    margin-left: 0.35rem;
+    white-space: nowrap;
+    font-size: 0.75rem;
+  }
+
+  .preprint-period {
+    color: #666;
+    font-size: 0.85rem;
+  }
+}
