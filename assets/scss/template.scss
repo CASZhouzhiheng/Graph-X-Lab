@@ -7,3 +7,49 @@
 .cta-group {
   justify-content: center;
 }
+
+// Bibliographic list styling for the Selected Publications profile section.
+.profile-publications {
+  .section-subheading {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  .article-style {
+    color: #3f4651;
+    font-size: 0.85rem;
+    line-height: 1.75;
+  }
+
+  ol {
+    margin-bottom: 0;
+    padding-left: 1.3em;
+  }
+
+  li {
+    margin-bottom: 0.4rem;
+    padding-left: 0;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(63, 70, 81, 0.25);
+  }
+
+  a:hover,
+  a:focus-visible {
+    color: #1565c0;
+    border-bottom-color: currentColor;
+  }
+}
+
+.dark .profile-publications .article-style {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.dark .profile-publications a {
+  border-bottom-color: rgba(255, 255, 255, 0.35);
+}

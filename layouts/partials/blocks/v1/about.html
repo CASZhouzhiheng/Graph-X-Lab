@@ -117,7 +117,7 @@
       {{ range $sections }}
         {{ $section := . }}
         {{ with index $person $section.key }}
-        <section class="{{ $section.width }} mb-4">
+        <section class="{{ $section.width }} mb-4{{ if eq $section.key "selected_publications" }} profile-publications{{ end }}">
           <h2 class="section-subheading">
             {{ $section.title }}
           </h2>

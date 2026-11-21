@@ -54,13 +54,13 @@ academic_affiliations: |
   - **Sept. 2009–Dec. 2015:** Editorial Board Member, Discrete Mathematics, Algorithms and Applications.
   - **Sept. 2009–Present:** Editorial Board Member, Acta Mathematicae Applicatae Sinica.
 selected_publications: |
-  1. [LncRNADisease: a database for long-non-coding RNA-associated diseases](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:qjMakFHDy7sC)
-  2. [Drug–target interaction prediction by random walk on the heterogeneous network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:kNdYIx-mwKoC)
-  3. [Novel human lncRNA–disease association inference based on lncRNA expression profiles](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:sSrBHYA8nusC)
-  4. [RWRMDA: predicting novel human microRNA–disease associations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:8AbLer7MMksC)
-  5. [PBMDA: A novel and effective path-based computational model for miRNA-disease association prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:aqlVkmm33-oC)
-  6. [The Impact of the Distance Between Cycles on Elementary Trapping Sets](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:NMxIlDl6LWMC)
-  7. [Affine automorphism group of polar codes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:TFP_iSt0sucC)
+  1. Geng Chen, Ziyun Wang, Dongqing Wang, et al. *[LncRNADisease: a database for long-non-coding RNA-associated diseases](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:qjMakFHDy7sC)*. *Nucleic Acids Research*, 2013, 41(D1): D983–D986.
+  2. Xing Chen, Ming-Xi Liu, Gui-Ying Yan. *[Drug–target interaction prediction by random walk on the heterogeneous network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:kNdYIx-mwKoC)*. *Molecular BioSystems*, 2012, 8(7): 1970–1978.
+  3. Xing Chen, Gui-Ying Yan. *[Novel human lncRNA–disease association inference based on lncRNA expression profiles](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:sSrBHYA8nusC)*. *Bioinformatics*, 2013, 29(20): 2617–2624.
+  4. Xing Chen, Ming-Xi Liu, Gui-Ying Yan. *[RWRMDA: predicting novel human microRNA–disease associations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:8AbLer7MMksC)*. *Molecular BioSystems*, 2012, 8(10): 2792–2798.
+  5. Zhu-Hong You, Zhi-An Huang, Zexuan Zhu, et al. *[PBMDA: A novel and effective path-based computational model for miRNA-disease association prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:aqlVkmm33-oC)*. *PLOS Computational Biology*, 2017, 13(3): e1005455.
+  6. Haoran Xiong, Guanghui Wang, Zhiming Ma, Guiying Yan. *[The Impact of the Distance Between Cycles on Elementary Trapping Sets](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:NMxIlDl6LWMC)*. *IEEE Transactions on Information Theory*, 2026, 72(1): 298–314.
+  7. Zicheng Ye, Yuan Li, Huazi Zhang, Jun Wang, Guiying Yan, Zhiming Ma. *[Affine Automorphism Group of Polar Codes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqczVI4AAAAJ&citation_for_view=TqczVI4AAAAJ:TFP_iSt0sucC)*. *IEEE Transactions on Information Theory*, 2024, 70(9): 6280–6296.
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
