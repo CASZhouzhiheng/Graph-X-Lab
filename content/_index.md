@@ -14,9 +14,9 @@ sections:
       text: |
         <br>
 
-        “Behind each complex system there is an intricate network that encodes the interactions between the system’s components.”
+        “Networks are about to become a basic language for the description of structures and systems in many parts of nature.”
 
-        — Albert-László Barabási, *[Network Science](https://networksciencebook.com/chapter/)*
+        — **László Lovász**
 
 
   - block: collection
