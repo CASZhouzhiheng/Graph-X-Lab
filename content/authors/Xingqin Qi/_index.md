@@ -1,72 +1,66 @@
 ---
-# Display name
 title: Xingqin Qi
 weight: 1
-# Full name (for SEO)
-first_name: Qi
-last_name: Xingqin
-
-# Username (this should match the folder name)
+first_name: Xingqin
+last_name: Qi
 authors:
   - Xingqin Qi
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Professor<br>School of Mathematics and Statistics, Shandong University
-
-# Organizations/Affiliations
-# organizations:
-#   - name: Shandong University
-#     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Professor and doctoral supervisor at Shandong University. Research interests include graph theory, complex networks, combinatorial optimization, and graph data mining.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph Theory and Complex Networks
+  - Combinatorial Optimization
+  - Graph Data Mining
+  - Optimization Theory and Algorithms
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mathematics
+      institution: School of Mathematics, Shandong University
+      year: "Sept. 2003–June 2006"
+    - course: MSc in Mathematics
+      institution: School of Mathematics, Shandong University
+      year: "Sept. 2001–June 2003"
+    - course: BSc in Mathematics
+      institution: School of Mathematics, Shandong University
+      year: "Sept. 1997–June 2001"
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+professional_experience: |
+  - **Jan. 2015–Present:** Professor, School of Mathematics and Statistics, Shandong University, Weihai, China.
+  - **Oct. 2009–Dec. 2014:** Associate Professor, School of Mathematics and Statistics, Shandong University, Weihai, China.
+  - **July 2006–Sept. 2009:** Lecturer, School of Mathematics and Statistics, Shandong University, Weihai, China.
+  - **May 2009–May 2011:** Postdoctoral Researcher, Department of Mathematics, West Virginia University, USA (mentors: Professors Cun-Quan Zhang and Eddie Fuller).
+  - **Sept. 2012–Sept. 2013:** Visiting Scholar, Department of Mathematics, West Virginia University, USA.
+
+research_projects: |
+  - **Jan. 2025–Dec. 2028:** Theory and Algorithms of Signed Hypergraphs and Their Applications to Graph Data Mining (NSFC General Program, Grant No. 12471330; RMB 440,000; ongoing; principal investigator).
+  - **Dec. 2023–Nov. 2028:** Generalized Encoding and Decoding over the Real Number Field (National Key R&D Program of China, subproject, Grant No. 2023YFA1009603; RMB 200,000; ongoing; principal investigator).
+  - **Oct. 2025–Oct. 2028:** Higher-Order Feature Extraction from Medical Imaging Data Based on Algebraic Topology and Its Applications to Brain Disease Diagnosis (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2025MS71; RMB 100,000; ongoing; principal investigator).
+  - **Jan. 2020–Dec. 2023:** Theory and Algorithms for Optimization Problems in Complex Networks Based on Graph-Theoretic Techniques (NSFC General Program, Grant No. 11971271; RMB 520,000; completed; principal investigator).
+  - **Jan. 2015–Dec. 2017:** Overlapping Clustering Algorithms for Signed Networks Based on Graph-Theoretic Methods (NSFC Young Scientists Fund, Grant No. 11401346; RMB 220,000; completed; principal investigator).
+  - **July 2019–June 2022:** Influence Maximization in Multilayer Networks (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2019MA008; RMB 200,000; completed; principal investigator).
+  - **Dec. 2014–Dec. 2017:** Influence Maximization in Signed Networks Based on Graph Theory and Combinatorial Optimization (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2014FM034; RMB 150,000; completed; principal investigator).
+
+academic_affiliations: |
+  - Council Member, Graph Theory and Combinatorics Branch, Operations Research Society of China.
+  - Member, Committee on Mathematics in Information and Communication Technology, China Society for Industrial and Applied Mathematics.
+
+selected_publications: ""
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: "qixingqin@sdu.edu.cn"
+    link: mailto:qixingqin@sdu.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=cCJJi14AAAAJ&hl=zh-CN
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: globe
+    icon_pack: fas
+    link: https://math.wh.sdu.edu.cn/new_rw-content-js.jsp?urltype=news.NewsContentUrl&wbtreeid=1013&wbnewsid=5952
+email: qixingqin@sdu.edu.cn
 user_groups:
   - Collaborating Members
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xingqin Qi is a Professor and doctoral supervisor at the School of Mathematics and Statistics, Shandong University, Weihai, China. Her research focuses on graph theory and complex networks, combinatorial optimization, graph data mining, and optimization theory and algorithms. She has led projects supported by the National Natural Science Foundation of China, the National Key R&D Program of China, and the Shandong Provincial Natural Science Foundation.
