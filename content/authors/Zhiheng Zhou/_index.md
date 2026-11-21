@@ -1,75 +1,66 @@
 ---
-# Display name
 title: Zhiheng Zhou
-
-# Full name (for SEO)
-first_name: Zhou
-last_name: Zhiheng
-
-# Username (this should match the folder name)
+first_name: Zhiheng
+last_name: Zhou
 authors:
   - Zhiheng Zhou
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: School of Mathematics and Statistics, Shandong University
-
-# Organizations/Affiliations
-# organizations:
-#   - name: Shandong University
-#     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: Postdoctoral Researcher<br>School of Mathematics and Statistics, Shandong University
+bio: Postdoctoral Researcher at Shandong University. Research interests include bioinformatics, graph neural networks, and hypergraph learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Graph Neural Networks
+  - Hypergraph Learning
+  - Biomedical Data Analysis
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Operations Research and Cybernetics
+      institution: "Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (supervisor: Professor Guiying Yan)"
+      year: "Sept. 2020–June 2023"
+    - course: MSc in Operations Research and Cybernetics
+      institution: "Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (supervisor: Professor Guiying Yan)"
+      year: "Sept. 2017–July 2020"
+    - course: BSc in Mathematics and Applied Mathematics
+      institution: School of Mathematics and Computational Science, Xiangtan University
+      year: "Sept. 2013–June 2017"
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+professional_experience: |
+  - **Sept. 2025–Present:** Postdoctoral Researcher in Operations Research and Cybernetics, School of Mathematics and Statistics, Shandong University (mentor: Professor Xingqin Qi).
+  - **July 2023–Sept. 2025:** Postdoctoral Researcher in Systems Science, Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (mentor: Professor Fuzhou Gong).
+
+research_projects: |
+  - **Jan. 2027–Dec. 2029:** NSFC Young Scientists Fund, Category C (National Natural Science Foundation of China; Principal Investigator).
+  - **July 2026–Sept. 2027:** General Funding Program of the China Postdoctoral Science Foundation (China Postdoctoral Science Foundation; Principal Investigator).
+  - **July 2026–Sept. 2027:** Shandong Provincial Postdoctoral Innovation Project (Department of Science and Technology of Shandong Province; Principal Investigator).
+  - **June 2026–Sept. 2027:** Weihai Key Postdoctoral Funding Program (Weihai Municipal Human Resources and Social Security Bureau; Principal Investigator).
+
+academic_affiliations: |
+  - Reviewer, *Engineering Applications of Artificial Intelligence*.
+  - Reviewer, *IEEE Journal of Biomedical and Health Informatics*.
+  - Reviewer, *Applied Soft Computing*.
+  - Reviewer, *Journal of King Saud University – Computer and Information Sciences*.
+  - Reviewer, *Computational and Structural Biotechnology Journal*.
+  - Reviewer, *The Visual Computer*.
+  - Reviewer, *Current Gene Therapy*.
+  - Reviewer, *Current Pharmaceutical Design*.
+  - Reviewer, *Current Medicinal Chemistry*.
+
+selected_publications: ""
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: "zhouzhiheng@amss.ac.cn"
+    link: mailto:zhouzhiheng@amss.ac.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=u5DCzDgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/CASZhouzhiheng
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+email: zhouzhiheng@amss.ac.cn
 user_groups:
   - Postdoctoral Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhiheng Zhou is a Postdoctoral Researcher at the School of Mathematics and Statistics, Shandong University, working with Professor Xingqin Qi. He received his PhD in Operations Research and Cybernetics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2023, under the supervision of Professor Guiying Yan. From July 2023 to September 2025, he was a Postdoctoral Researcher at the same academy, working with Professor Fuzhou Gong. His research focuses on bioinformatics, graph neural networks, and hypergraph learning, with applications to biomedical data analysis. He also serves as a reviewer for journals in artificial intelligence and biomedical informatics.
