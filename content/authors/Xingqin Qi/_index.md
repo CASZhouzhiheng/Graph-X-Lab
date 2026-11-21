@@ -30,8 +30,8 @@ professional_experience: |
   - **Jan. 2015–Present:** Professor, School of Mathematics and Statistics, Shandong University (Weihai).
   - **Oct. 2009–Dec. 2014:** Associate Professor, School of Mathematics and Statistics, Shandong University (Weihai).
   - **July 2006–Sept. 2009:** Lecturer, School of Mathematics and Statistics, Shandong University (Weihai).
-  - **May 2009–May 2011:** Postdoctoral Researcher, Department of Mathematics, West Virginia University, USA (mentors: Professors Cun-Quan Zhang and Eddie Fuller).
-  - **Sept. 2012–Sept. 2013:** Visiting Scholar, Department of Mathematics, West Virginia University, USA.
+  - **May 2009–May 2011:** Postdoctoral Researcher, Department of Mathematics, West Virginia University (mentors: Professors Cun-Quan Zhang and Eddie Fuller).
+  - **Sept. 2012–Sept. 2013:** Visiting Scholar, Department of Mathematics, West Virginia University.
 
 research_projects: |
   - **Jan. 2025–Dec. 2028:** Theory and Algorithms of Signed Hypergraphs and Their Applications to Graph Data Mining (NSFC General Program; Principal Investigator).
