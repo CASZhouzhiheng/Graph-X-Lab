@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Graph-X Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Graph-X Lab** develops mathematical foundations and computational methods for understanding complex networks. Our research spans graph theory, combinatorial optimization, graph and hypergraph learning, and topological data analysis, with applications in bioinformatics, brain science, and drug discovery.
   
   - block: collection
     content:
