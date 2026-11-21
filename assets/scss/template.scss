@@ -53,3 +53,28 @@
 .dark .profile-publications a {
   border-bottom-color: rgba(255, 255, 255, 0.35);
 }
+
+// Graph-X image mark with the existing Lab wordmark on desktop and mobile.
+#navbar-main .navbar-brand.graphx-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  white-space: nowrap;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#navbar-main .graphx-brand-logo {
+  display: block;
+  width: 116px;
+  height: 50px;
+  max-height: none;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+
+#navbar-main .graphx-brand-lab {
+  display: inline-block;
+  line-height: 1;
+  transform: translateY(3px);
+}
