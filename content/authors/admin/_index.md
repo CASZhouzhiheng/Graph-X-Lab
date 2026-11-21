@@ -42,10 +42,10 @@ professional_experience: |
   - June 1995–Feb. 1997:	Postdoctoral Researcher, Institute of Applied Mathematics, Chinese Academy of Sciences
 
 research_projects: |
-  - **Jan. 2024–Dec. 2028:** New Mathematical Metrics, Structural Theory and Applications for Encoding and Decoding (National Key R&D Program, “Mathematics and Applied Research”).
-  - **Jan. 2022–Dec. 2027:** Graph Network Theory and Algorithms and Their Applications to Biomedical Problems (NSFC Key Program).
-  - **Jan. 2017–Dec. 2020:** Graph Theory and Algorithms and Their Applications to Bioinformatics (NSFC Key Program).
-  - **Jan. 2013–Dec. 2017:** Identification Models and Algorithms for Non-coding RNAs Associated with Complex Diseases (NSFC General Program).
+  - **Jan. 2024–Dec. 2028:** New Mathematical Metrics, Structural Theory and Applications for Encoding and Decoding (National Key R&D Program, “Mathematics and Applied Research”; Principal Investigator).
+  - **Jan. 2022–Dec. 2027:** Graph Network Theory and Algorithms and Their Applications to Biomedical Problems (NSFC Key Program; Principal Investigator).
+  - **Jan. 2017–Dec. 2020:** Graph Theory and Algorithms and Their Applications to Bioinformatics (NSFC Key Program; Principal Investigator).
+  - **Jan. 2013–Dec. 2017:** Identification Models and Algorithms for Non-coding RNAs Associated with Complex Diseases (NSFC General Program; Principal Investigator).
 academic_affiliations: |
   - **Oct. 2021–Present:** Vice President and Secretary-General, Operations Research Society of China.
   - **July 2020–Present:** Vice President, China Society for Industrial and Applied Mathematics.

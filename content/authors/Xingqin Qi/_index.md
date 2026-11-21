@@ -34,13 +34,13 @@ professional_experience: |
   - **Sept. 2012–Sept. 2013:** Visiting Scholar, Department of Mathematics, West Virginia University, USA.
 
 research_projects: |
-  - **Jan. 2025–Dec. 2028:** Theory and Algorithms of Signed Hypergraphs and Their Applications to Graph Data Mining (NSFC General Program, Grant No. 12471330; RMB 440,000; ongoing; principal investigator).
-  - **Dec. 2023–Nov. 2028:** Generalized Encoding and Decoding over the Real Number Field (National Key R&D Program of China, subproject, Grant No. 2023YFA1009603; RMB 200,000; ongoing; principal investigator).
-  - **Oct. 2025–Oct. 2028:** Higher-Order Feature Extraction from Medical Imaging Data Based on Algebraic Topology and Its Applications to Brain Disease Diagnosis (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2025MS71; RMB 100,000; ongoing; principal investigator).
-  - **Jan. 2020–Dec. 2023:** Theory and Algorithms for Optimization Problems in Complex Networks Based on Graph-Theoretic Techniques (NSFC General Program, Grant No. 11971271; RMB 520,000; completed; principal investigator).
-  - **Jan. 2015–Dec. 2017:** Overlapping Clustering Algorithms for Signed Networks Based on Graph-Theoretic Methods (NSFC Young Scientists Fund, Grant No. 11401346; RMB 220,000; completed; principal investigator).
-  - **July 2019–June 2022:** Influence Maximization in Multilayer Networks (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2019MA008; RMB 200,000; completed; principal investigator).
-  - **Dec. 2014–Dec. 2017:** Influence Maximization in Signed Networks Based on Graph Theory and Combinatorial Optimization (Shandong Provincial Natural Science Foundation, General Program, Grant No. ZR2014FM034; RMB 150,000; completed; principal investigator).
+  - **Jan. 2025–Dec. 2028:** Theory and Algorithms of Signed Hypergraphs and Their Applications to Graph Data Mining (NSFC General Program; principal investigator).
+  - **Dec. 2023–Nov. 2028:** Generalized Encoding and Decoding over the Real Number Field (National Key R&D Program of China, subproject; principal investigator).
+  - **Oct. 2025–Oct. 2028:** Higher-Order Feature Extraction from Medical Imaging Data Based on Algebraic Topology and Its Applications to Brain Disease Diagnosis (Shandong Provincial Natural Science Foundation, General Program; principal investigator).
+  - **Jan. 2020–Dec. 2023:** Theory and Algorithms for Optimization Problems in Complex Networks Based on Graph-Theoretic Techniques (NSFC General Program; principal investigator).
+  - **Jan. 2015–Dec. 2017:** Overlapping Clustering Algorithms for Signed Networks Based on Graph-Theoretic Methods (NSFC Young Scientists Fund; principal investigator).
+  - **July 2019–June 2022:** Influence Maximization in Multilayer Networks (Shandong Provincial Natural Science Foundation, General Program; principal investigator).
+  - **Dec. 2014–Dec. 2017:** Influence Maximization in Signed Networks Based on Graph Theory and Combinatorial Optimization (Shandong Provincial Natural Science Foundation, General Program; principal investigator).
 
 academic_affiliations: |
   - Council Member, Graph Theory and Combinatorics Branch, Operations Research Society of China.
