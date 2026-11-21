@@ -146,3 +146,55 @@
     font-size: 0.85rem;
   }
 }
+
+// In-page year navigation for publications and preprints.
+html.publication-index-page {
+  scroll-behavior: smooth;
+}
+
+.lab-publications {
+  .publication-years {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.75rem 0 1.6rem;
+  }
+
+  .publication-year-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 34px;
+    padding: 0.15rem 0.7rem;
+    border: 1px solid #d2d6de;
+    border-radius: 999px;
+    color: #68707d;
+    background: #fff;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+
+  .publication-year-link:hover,
+  .publication-year-link:focus-visible {
+    color: #17191d;
+    border-color: #17191d;
+  }
+
+  .publication-year-link.is-active {
+    color: #fff;
+    border-color: #17191d;
+    background: #17191d;
+  }
+
+  .publication-year h3 {
+    scroll-margin-top: 100px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.publication-index-page {
+    scroll-behavior: auto;
+  }
+}
