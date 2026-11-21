@@ -6,8 +6,8 @@ last_name: Li
 authors:
   - Luyi Li
 superuser: false
-role: Lecturer<br>Center for Applied Mathematics, Renmin University of China
-bio: Lecturer at the Center for Applied Mathematics, Renmin University of China. Research interests include combinatorial graph theory and its applications.
+role: Lecturer<br>School of Mathematics, Renmin University of China
+bio: Lecturer at the School of Mathematics, Renmin University of China. Research interests include combinatorial graph theory and its applications.
 interests:
   - Combinatorial Graph Theory
   - Rainbow Structures in Graph Collections
@@ -29,7 +29,7 @@ education:
       year: "Sept. 2013–June 2017"
 
 professional_experience: |
-  - **July 2026–Present:** Lecturer, Center for Applied Mathematics, Renmin University of China.
+  - **July 2026–Present:** Lecturer, School of Mathematics, Renmin University of China.
   - **Apr. 2025–June 2025:** Academic Visitor, Institute for Basic Science, Korea.
   - **July 2024–July 2026:** Postdoctoral Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (mentor: Professor Guiying Yan).
 
@@ -55,4 +55,4 @@ user_groups:
   - Collaborating Members
 ---
 
-Luyi Li is a Lecturer at the Center for Applied Mathematics, Renmin University of China. His research focuses on combinatorial graph theory and its applications, including rainbow structures in graph collections and edge-colored graphs. He received his PhD from Nankai University in 2024 and undertook joint doctoral research at Université Paris-Saclay. Before joining Renmin University of China, he was a Postdoctoral Researcher at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, working with Professor Guiying Yan. He has led projects supported by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, and other research funding programs.
+Luyi Li received his PhD from Nankai University in 2024 and undertook joint doctoral training at Université Paris-Saclay, France, from 2023 to 2024. From 2024 to 2026, he conducted postdoctoral research at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, under the mentorship of Professor Guiying Yan. He joined the School of Mathematics, Renmin University of China, in July 2026. In 2025, he received support from the National Postdoctoral Researcher Funding Program. He has led a project supported by the 78th General Funding of the China Postdoctoral Science Foundation and is currently the Principal Investigator of an NSFC Young Scientists Fund project (Category C). His research focuses on combinatorial graph theory and its applications.
