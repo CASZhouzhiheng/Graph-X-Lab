@@ -1,72 +1,58 @@
 ---
-# Display name
 title: Luyi Li
 weight: 3
-# Full name (for SEO)
-first_name: Li
-last_name: Luyi
-
-# Username (this should match the folder name)
+first_name: Luyi
+last_name: Li
 authors:
   - Luyi Li
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: Lecturer<br>Institute of Mathematics, Renmin University of China
-
-# Organizations/Affiliations
-# organizations:
-#   - name: Shandong University
-#     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: Lecturer<br>Center for Applied Mathematics, Renmin University of China
+bio: Lecturer at the Center for Applied Mathematics, Renmin University of China. Research interests include combinatorial graph theory and its applications.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Combinatorial Graph Theory
+  - Rainbow Structures in Graph Collections
+  - Edge-Colored Graphs and Graph Applications
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Joint Doctoral Research Program
+      institution: "LISN, Université Paris-Saclay (supervisor: Professor Hao Li)"
+      year: "Sept. 2023–Aug. 2024"
+    - course: PhD in Mathematics
+      institution: "Center for Combinatorics, Nankai University (supervisor: Professor Xueliang Li)"
+      year: "Sept. 2020–June 2024"
+    - course: MSc in Mathematics
+      institution: "School of Mathematics and Statistics, Zhengzhou University (supervisor: Professor Jinjiang Yuan)"
+      year: "Sept. 2017–June 2020"
+    - course: BSc in Mathematics
+      institution: School of Mathematics and Statistics, Zhengzhou University
+      year: "Sept. 2013–June 2017"
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+professional_experience: |
+  - **July 2026–Present:** Lecturer, Center for Applied Mathematics, Renmin University of China.
+  - **Apr. 2025–June 2025:** Academic Visitor, Institute for Basic Science, Korea.
+  - **July 2024–July 2026:** Postdoctoral Researcher, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (mentor: Professor Guiying Yan).
+
+research_projects: |
+  - **Jan. 2026–Dec. 2028:** Existence of Rainbow Subgraphs in Graph Systems (NSFC Young Scientists Fund, Category C; Principal Investigator).
+  - **Sept. 2025–July 2026:** Rainbow Hamiltonicity in Graph Systems (China Postdoctoral Science Foundation, 78th General Funding; Principal Investigator).
+  - **July 2025–July 2026:** Existence of Special Subgraphs and Its Applications to Coding (National Postdoctoral Researcher Funding Program; Principal Investigator).
+  - **Feb. 2023–Feb. 2024:** Rainbow Pancyclicity and Rainbow Hamiltonian Connectivity in Graph Systems (Tianjin 2022 Postgraduate Research Innovation Program; Principal Investigator).
+
+academic_affiliations: ""
+
+selected_publications: ""
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: "liluyi@amss.ac.cn"
+    link: mailto:liluyi@ruc.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=GU7FtMYAAAAJ
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+email: liluyi@ruc.edu.cn
 user_groups:
   - Collaborating Members
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Luyi Li is a Lecturer at the Center for Applied Mathematics, Renmin University of China. His research focuses on combinatorial graph theory and its applications, including rainbow structures in graph collections and edge-colored graphs. He received his PhD from Nankai University in 2024 and undertook joint doctoral research at Université Paris-Saclay. Before joining Renmin University of China, he was a Postdoctoral Researcher at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, working with Professor Guiying Yan. He has led projects supported by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, and other research funding programs.
