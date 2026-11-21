@@ -10,7 +10,7 @@ sections:
       title: |
         Graph-X Lab
       image:
-        filename: welcome.jpg
+        filename: graph-x-research-hero.png
       text: |
         <br>
 
