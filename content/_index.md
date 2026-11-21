@@ -16,7 +16,7 @@ sections:
 
         “Networks are about to become a basic language for the description of structures and systems in many parts of nature.”
 
-        — **László Lovász**, [Abel Prize](https://en.wikipedia.org/wiki/Abel_Prize "Abel Prize") (2021)
+        — **László Lovász**, 2021 Abel Prize Laureate
 
 
   - block: collection
