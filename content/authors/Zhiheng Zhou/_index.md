@@ -30,9 +30,9 @@ professional_experience: |
   - **July 2023–Sept. 2025:** Postdoctoral Researcher in Systems Science, Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (mentor: Professor Fuzhou Gong).
 
 research_projects: |
-  - **Jan. 2027–Dec. 2029:** NSFC Young Scientists Fund, Category C (National Natural Science Foundation of China; Principal Investigator).
-  - **July 2026–Sept. 2027:** General Funding Program of the China Postdoctoral Science Foundation (China Postdoctoral Science Foundation; Principal Investigator).
-  - **July 2026–Sept. 2027:** Shandong Provincial Postdoctoral Innovation Project (Department of Science and Technology of Shandong Province; Principal Investigator).
+  - **Jan. 2027–Dec. 2029:** Hypergraph Modeling and Dynamical Network Evolution in Neural Populations (NSFC Young Scientists Fund, Category C; Principal Investigator).
+  - **Aug. 2026–Oct. 2027:** Hypergraph-Based Low-Dimensional Representation Methods for Neural Populations and Their Applications (China Postdoctoral Science Foundation, General Funding; Principal Investigator).
+  - **July 2026–Oct. 2027:** Hypergraph-Based Modeling of Low-Dimensional Representations and Higher-Order Interaction Structures in Neural Populations (Shandong Provincial Postdoctoral Innovation Project; Principal Investigator).
 
 academic_affiliations: ""
 
