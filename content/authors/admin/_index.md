@@ -18,7 +18,7 @@ role: Professor<br>Institute of Applied Mathematics, Academy of Mathematics and 
 #     url: 'https://amss.cas.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Her research focuses on graph and network theory and its applications.
 
 education:
   courses:
@@ -90,6 +90,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Guiying Yan is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guiying Yan is a Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences (CAS), Deputy Director of the National Center for Mathematics and Interdisciplinary Sciences, CAS, and a Professor at the University of Chinese Academy of Sciences. She serves as Secretary of the Party Committee, Vice President, and Secretary-General of the Operations Research Society of China. Her research focuses on graph and network theory and its applications. She has led projects supported by the National Key R&D Program of China and the Key Program of the National Natural Science Foundation of China, as well as several industry collaboration projects. She has been recognized as a National Outstanding Scientific and Technological Worker, receives the State Council’s Special Government Allowance, and has received multiple provincial and ministerial awards.
