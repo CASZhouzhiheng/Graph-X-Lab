@@ -1,11 +1,12 @@
 ---
-title: Recent & Upcoming Events
+title: Events
+type: landing
 
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: markdown
+    content:
+      title: Events
+      text: ""
+    design:
+      columns: '1'
 ---

@@ -1,11 +1,12 @@
 ---
-title: Latest News
+title: News
+type: landing
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: markdown
+    content:
+      title: News
+      text: ""
+    design:
+      columns: '1'
 ---
