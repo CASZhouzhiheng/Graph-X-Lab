@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luyi Li
-weight: 2
+weight: 3
 # Full name (for SEO)
 first_name: Li
 last_name: Luyi
