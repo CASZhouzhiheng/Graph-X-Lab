@@ -33,7 +33,6 @@ research_projects: |
   - **Jan. 2027–Dec. 2029:** NSFC Young Scientists Fund, Category C (National Natural Science Foundation of China; Principal Investigator).
   - **July 2026–Sept. 2027:** General Funding Program of the China Postdoctoral Science Foundation (China Postdoctoral Science Foundation; Principal Investigator).
   - **July 2026–Sept. 2027:** Shandong Provincial Postdoctoral Innovation Project (Department of Science and Technology of Shandong Province; Principal Investigator).
-  - **June 2026–Sept. 2027:** Weihai Key Postdoctoral Funding Program (Weihai Municipal Human Resources and Social Security Bureau; Principal Investigator).
 
 academic_affiliations: ""
 
