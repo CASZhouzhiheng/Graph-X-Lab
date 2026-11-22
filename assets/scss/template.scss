@@ -54,7 +54,7 @@
   border-bottom-color: rgba(255, 255, 255, 0.35);
 }
 
-// Graph-X image mark with the existing Lab wordmark on desktop and mobile.
+// Graph-X image mark on desktop and mobile.
 #navbar-main .navbar-brand.graphx-brand {
   display: inline-flex;
   align-items: center;
@@ -71,12 +71,6 @@
   max-height: none;
   object-fit: contain;
   flex: 0 0 auto;
-}
-
-#navbar-main .graphx-brand-lab {
-  display: inline-block;
-  line-height: 1;
-  transform: translateY(3px);
 }
 
 // Year-grouped publication bibliography.
