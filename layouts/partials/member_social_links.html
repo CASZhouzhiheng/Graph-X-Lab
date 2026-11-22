@@ -1,0 +1,39 @@
+{{/* Shared contact links for People cards and member profiles. */}}
+{{ $person := .person }}
+{{ $icon_class := .icon_class | default "" }}
+{{ $email := $person.Params.email | default "" }}
+{{ $has_email := in $email "@" }}
+{{ if or $has_email $person.Params.social }}
+<ul class="network-icon member-social-links">
+  {{ if $has_email }}
+  <li class="member-email-item">
+    <a class="member-email-link" href="{{ printf "mailto:%s" $email | safeURL }}" title="{{ $email }}" aria-label="Email {{ $person.Title }} at {{ $email }}">
+      <i class="fas fa-envelope" aria-hidden="true"></i>
+      <span class="member-email-label">{{ $email }}</span>
+    </a>
+  </li>
+  {{ end }}
+  {{ range $person.Params.social }}
+    {{ if ne .icon "envelope" }}
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+      {{ $pack_prefix = "fa" }}
+    {{ end }}
+    {{ $link := .link }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = .link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    <li>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{ $icon_class }}" aria-hidden="true"></i>
+      </a>
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}

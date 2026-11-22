@@ -55,9 +55,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=cCJJi14AAAAJ&hl=zh-CN
-  - icon: globe
-    icon_pack: fas
-    link: https://math.wh.sdu.edu.cn/new_rw-content-js.jsp?urltype=news.NewsContentUrl&wbtreeid=1013&wbnewsid=5952
 email: qixingqin@sdu.edu.cn
 user_groups:
   - Collaborating Members

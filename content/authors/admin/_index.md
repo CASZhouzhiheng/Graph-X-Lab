@@ -68,7 +68,7 @@ selected_publications: |
 social:
   - icon: envelope
     icon_pack: fas
-    link: "yangy@amss.ac.cn"
+    link: "mailto:yangy@amss.ac.cn"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TqczVI4AAAAJ&hl=en
