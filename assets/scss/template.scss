@@ -193,34 +193,9 @@ html.publication-index-page {
   }
 }
 
-// Show usable email addresses beside member contact icons.
+// Member contact icons use the email address as the hover tooltip.
 .member-social-links {
   max-width: 100%;
   padding-left: 0;
   list-style: none;
-}
-
-.member-social-links li.member-email-item {
-  display: block;
-  margin: 0 0 0.45rem;
-}
-
-.member-social-links .member-email-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.35rem;
-  max-width: 100%;
-  font-size: 0.75rem;
-  line-height: 1.45;
-}
-
-.member-social-links .member-email-link i {
-  flex: 0 0 auto;
-  font-size: 1rem;
-}
-
-.member-social-links .member-email-label {
-  min-width: 0;
-  overflow-wrap: anywhere;
 }
